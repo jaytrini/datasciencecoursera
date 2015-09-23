@@ -1,2 +1,2 @@
 # datasciencecoursera
-Learning to data science
+Learning data science
